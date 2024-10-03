@@ -1,6 +1,6 @@
 h1 {
     color:#333;
-    font-size: 2.5em;
+    font-size: 2em;
     font-family: 'Playfair Display', 'Anta', 'Roboto', serif;
     text-align: center;
 }
@@ -22,7 +22,7 @@ form {
 
 label {
     color:#333;
-    font-size:1em;
+    font-size:0.9em;
     font-family: 'Playfair Display', 'Anta', 'Roboto', serif;
     display: block;
     margin-bottom:10px;
@@ -38,6 +38,7 @@ input[type="email"]{
     border-radius: 5px;
 
 }
+
 input[type="submit"] {
     font-family: 'Playfair Display', 'Anta', 'Roboto', serif;
     background-color: #888; 
