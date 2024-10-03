@@ -52,14 +52,22 @@ input[type="submit"] {
     height: 70%;
 }
 
+#input-age-verification {
+    display: flex; 
+    align-items: center; 
+    margin-bottom: 20px; 
+}
+
 #input-age-verification label {
-    margin-top: -43px;
-    margin-left: 28px;
+    margin-top: 0; 
+    margin-left: 10px;
 }
 
 input[type="checkbox"] {
-    margin-right: 5px;
+    margin-right: 0;
+    width: auto; 
 }
+
 
 @media only screen and (max-width: 600px) {
     form {
